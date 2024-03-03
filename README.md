@@ -1,3 +1,5 @@
+<p> I used Vite with ReactJS to create this beautiful UI </p>
+
 <b>Styled Library:</b> <span>Material UI.</span>
 
 <b>API Calling Package:</b> <span>Axios</span>
