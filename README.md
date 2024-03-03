@@ -1,3 +1,10 @@
+I used Vite with ReactJS to create this beautiful UI.
+
+Styled Library:  Material UI.
+API Calling Package: Axios
+Icons: Iconify
+
+
 <h1> Risk Owner Dashboard </h1>
 
 <img src="/public/preview/dashboard.png" />
@@ -17,3 +24,4 @@
 <h1> No Result Found </h1>
 
 <img src="/public/preview/no-result-found.png" />
+
